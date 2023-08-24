@@ -1,0 +1,11 @@
+{
+    "source_dir_backup": "D:/backup/Documents/projects/python/file_splitter",
+    "destination_dir_backup": "D:/crown/sample_destination",
+    "allowed_extensions": [".bak"],
+    "_comment_allowed_extensions": "In allowed_extensions just add extension that you want to include in splitting",
+    "chunk_size": 10485760,
+    "_comment_chunk_size": "This is in bytes, 5GB=5368709120, 10mb=10485760",
+    "filename_prefix": "backup",
+    "folder_name": "Backup_Folder",
+    "use_current_date_as_folder": false
+}
